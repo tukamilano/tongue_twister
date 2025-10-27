@@ -1,0 +1,37 @@
+{
+  "os":  "macOS-15.6-arm64-arm-64bit",
+  "python":  "CPython 3.12.2",
+  "startedAt":  "2025-10-27T04:23:33.323165Z",
+  "program":  "/Users/milano/tongue_twister/train.py",
+  "codePath":  "train.py",
+  "codePathLocal":  "train.py",
+  "git":  {
+    "remote":  "https://github.com/tukamilano/tongue_twister.git",
+    "commit":  "5b21ecb9759e7383bd522a3d4ba6bac72defe283"
+  },
+  "email":  "milanotukamoto2@gmail.com",
+  "root":  "/Users/milano/tongue_twister",
+  "host":  "Milano-Air.local",
+  "executable":  "/Users/milano/miniconda3/bin/python",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "236086075392"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "apple":  {
+    "name":  "Apple M1",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  7,
+    "memoryGb":  16,
+    "swapTotalBytes":  "2147483648",
+    "ramTotalBytes":  "17179869184"
+  },
+  "writerId":  "czjd4hu0a8h9z7kwz68q0cdp9jkv9ts7"
+}
